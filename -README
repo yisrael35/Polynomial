@@ -1,0 +1,26 @@
+
+name : yisrael bar  
+
+explaintion:There are two program  ex6_q2 
+
+ex6_q2 receives polynoms  and can do a lot of calcultion with them like sum of two polynoms or multiply them.
+
+to compile:
+press ctrl +shift+b
+
+to run the program: 
+press ctrl+f5
+
+
+the files of program ex6_q2: 
+Polynomial.h ex6_q2.cpp
+
+input:
+
+ex6_q2 receives : 
+numbers. and put them in array and each object is a polynom and can do
++,+=,-,-=,*,*=,=,[]
+output: 
+print the polynom from the bigger to the smallest of the coefficient
+
+
